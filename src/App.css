@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+p {
+  color: white;
+}
+
+.agregar {
+  margin: 2rem 1rem 0;
+}
+
+.servicios {
+  display: flex;
+  justify-content: flex-end;
+  margin: 1rem 1rem;
+  gap: 6px;
+}
